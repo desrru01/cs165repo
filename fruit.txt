@@ -7,3 +7,6 @@ lime
 cherry
 watermelon
 tomato
+mango
+kiwi
+sugar cane
